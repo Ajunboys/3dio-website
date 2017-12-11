@@ -1,4 +1,5 @@
 <script id="partner-info" type="application/x-yaml">
+PUBLISh: true
 NAME: Objekt360
 TAGLINE: 
 DESCRIPTION: Objekt360 is Norhern Europe's leading provider of 3D tours and a comprehensive visual services partner. We are a young entrepreneurial company based in Sweden, passionate about new technology and privileged with strong partners
