@@ -11,7 +11,7 @@ URL: https://www.objekt360.com/kopia-pa-allt
 EMAIL: info@objekt360.se
 COUNTRY: Sweden
 CITY: Hedinsgatan
-LOCATION_LAT_LNG: 59.33, 18.07
+LOCATION_LAT_LNG: 59.3293, 18.0686
 SAMPLES:
     - TITLE: Office 1
       DESCRIPTION: "An old warehouse imagined as an office, furnished to suggest the best use of space"
