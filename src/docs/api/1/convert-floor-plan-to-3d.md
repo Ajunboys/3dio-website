@@ -3,7 +3,7 @@
 The floor plan conversion API allows you to convert 2D floor plan images into interactive 3D models.
 If your prefer to not set up your own server you can order models via: [https://spaces.archilogic.com/order](https://spaces.archilogic.com/order)
 
-In both cases the `Explore` license allows for 10 free conversions per month the `Professional` license for 50. For further details take a look at the [pricing info](https://3d.io/#pricing).
+In both cases the `Explore` license allows for 3 free conversions per month the `Professional` license for 10. For further details take a look at the [pricing info](https://3d.io/#pricing).
 
 
 ## Conversion Request
